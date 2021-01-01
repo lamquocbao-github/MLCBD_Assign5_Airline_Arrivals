@@ -7,4 +7,4 @@
   + Boosting Model (Gradient Boosting, XGB)
   + SVM
  - PCA/RFE/SelectKBest for feature selection.
- - Tuning model to enhace perfomance & accuracy.
+ - Tuning model to enhance perfomance & accuracy.
